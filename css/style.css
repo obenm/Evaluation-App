@@ -1,0 +1,100 @@
+body{
+	background: #dcdcdc;
+	//overflow-x: hidden;
+}
+.encabezado{
+	background: #337ab7;
+	color: #fff;
+}
+.menu li{
+	color: #fff;
+	list-style-type: none;
+	float: left;
+}
+.logo{
+	color: #fff;
+	background: #337ab7;
+}
+.menuBotones{
+	background: #fff;
+}
+.jumbotron{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 75px;
+}
+//.botonesEvaluacion, .estacion, .turno, .botonesPersona, .personas, .datos_persona, .evaluacionVehiculos, .seleccionVehiculos{
+//	margin: 0px 0;
+//}
+.botonesEvaluacion div, .estacion div, .turno div, .botonesPersona div, .personas div, .datos_persona div,{
+	margin: 10px 0;
+}
+.btn{
+	margin-top: 10px;
+}
+.quitarBtnMargen{
+	margin-top: 0px;
+}
+.margenEspecial{
+	margin-bottom: 10px;
+}
+.paddingEspecial{
+	padding-bottom: 10px;
+}
+.paddingBordes{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.evaluacionVehiculos div{
+	margin: 0px 0px;
+}
+.seleccionVehiculos div{
+	//margin-top: 15px;
+}
+.seccion1{
+	background: #eee;
+	padding-bottom: 0px;
+}
+.seccion2{
+	background: #eee;
+	//padding-top: 0;
+}
+.seccion3{
+	background: #eee;
+	//padding-top: 10px;
+	padding-bottom: 10px;
+}
+.calificacionEvaluacion{
+	margin-top:15px;
+}
+.formularioVehiculos{
+	/*padding-left: 9.9%;
+	padding-right: 9.9%;*/
+}
+
+#btnBuscarPersonal{
+	margin-top:1px;
+}
+
+canvas{
+    width: 100% !important;
+    max-width: 800px;
+    height: auto !important;
+    margin: auto;
+}
+
+.muybien{
+	background-color: #45f745;
+}
+
+.bien{
+	background-color: #45a4f7;
+}
+
+.regular{
+	background-color: #f7f745;
+}
+
+.mal{
+	background-color: #f7464a;
+}
