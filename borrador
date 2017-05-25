@@ -1,0 +1,340 @@
+<div class="visible-xs col-xs-12">
+					<table class="table table-bordered table-hover table-condensed table-responsive text-center">
+						<tr>
+							<td><h5><strong>Nombre</strong></h5></td>
+							<td colspan="3">Nombre de Prueba Lopez Lopez</td>
+						</tr>
+						<tr>
+							<td><h5><strong>Puesto</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Vehículo</strong></h5></td>
+							<td><h5><strong>A</strong></h5></td>
+							<td><h5><strong>B</strong></h5></td>
+							<td><h5><strong>C</strong></h5></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Saludo y Bienvenida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Tarjeta Gascard</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Ratificación de Datos</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Forma de Pago</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Ofrecimiento de Aditivo</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Verificar "Ceros"</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Saludo y Bienvenida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Revisión de Niveles</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Limpieza de Cristales</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Revisión de Llantas</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Cobro</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Factura</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Despedida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Puntuación</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Promedio por Vehículo</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Presentación Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Limpieza Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Amabilidad</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Atención</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Disposición</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Contacto Visual</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Rapidez</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Promedio</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Calificación Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Observaciones</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+					</table>
+				</div>
+
+				<div class="visible-xs col-xs-12">
+					<table class="table table-bordered table-hover table-condensed table-responsive text-center">
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Nombre</strong></h5></td>
+							<td colspan="3">Nombre de Prueba Lopez Lopez</td>
+						</tr>
+						<tr>
+							<td><h5><strong>Puesto</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Saludo y Bienvenida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Tarjeta Gascard</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Ratificación de Datos</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Forma de Pago</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Ofrecimiento de Aditivo</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Verificar "Ceros"</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Saludo y Bienvenida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Revisión de Niveles</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Limpieza de Cristales</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Revisión de Llantas</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Cobro</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Factura</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Despedida</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Puntuación</strong></h5></td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Promedio por Vehículo</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Presentación Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Limpieza Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Amabilidad</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Atención</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Disposición</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Contacto Visual</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Rapidez</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Promedio</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+						<tr>
+							<td><h5><strong>Calificación Personal</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+
+						<!-- -->
+						<tr class="active">
+							<td colspan="4"></td>
+						</tr>
+						<!-- -->
+
+						<tr>
+							<td><h5><strong>Observaciones</strong></h5></td>
+							<td colspan="3"></td>
+						</tr>
+					</table>
+				</div>
